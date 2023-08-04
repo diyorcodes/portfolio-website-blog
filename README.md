@@ -8,7 +8,7 @@
   <a href="https://asim1909.github.io/Responsive-Blog-Website/" target="_blank">View Live</a>
 </p>
 
-![image](https://user-images.githubusercontent.com/118390636/230763335-f4c41cf5-e761-4849-9620-03f072e67f45.png)
+![image](image/Screenshot_23.jpg)
 
 
 ## 🛠 Installation & Set Up
