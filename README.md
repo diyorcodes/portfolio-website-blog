@@ -11,6 +11,4 @@
 
 ## 🛠 Installation & Set Up
 
-```
-Simply clone and open index.html in any browser
-```
+
